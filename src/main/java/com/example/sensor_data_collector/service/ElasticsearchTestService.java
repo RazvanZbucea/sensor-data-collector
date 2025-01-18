@@ -29,4 +29,3 @@ public class ElasticsearchTestService {
         sensorAnalyticsRepository.save(testResult);
     }
 }
-
